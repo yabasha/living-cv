@@ -2,7 +2,7 @@
 
 I build production AI systems for regulated industries and ship full-stack web and mobile products with Laravel, Next.js, and React Native.
 
-<img src="assets/bashar-ayyash-portrait.png" alt="Portrait of Bashar Ayyash" width="160" align="right">
+<img src="assets/bashar-ayyash-avatar.svg" alt="Portrait of Bashar Ayyash" width="160" height="160" align="right">
 
 **Amman, Jordan**
 
