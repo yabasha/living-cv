@@ -10,7 +10,7 @@
 ## iMMAP · Senior Web Developer · 2016–2021
 
 - Built humanitarian information-management tools for data collection, processing, visualization, and reporting.
-- Implemented tooling for the Integrated Market Monitoring Initiative (IMMI), which supported food security and livelihoods work in Syria. [iMMAP’s public information products](https://old.immap.org/products/).
+- Implemented tooling for the Integrated Market Monitoring Initiative (IMMI), which supported food security and livelihoods work in Syria. [IMMI bulletin, 2022](https://reliefweb.int/report/syrian-arab-republic/northeast-syria-integrated-market-monitoring-initiative-immi-bulletin-quarter-3-winter-season-2022-price-monitoring-agriculture-and-livestock-inputs).
 - Led a five-person iMMAP team contributing to CGIAR’s monitoring and evaluation platform and the GeOC web GIS during 2016–2018. [MEL and GeOC case study](../case-studies/mel-geoc.md).
 
 ## NCCI · IT Web Manager · 2015–2016
