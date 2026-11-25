@@ -2,6 +2,7 @@
 
 ## [Unreleased]
 
+- Replaced the landing page avatar with Bashar’s portrait.
 - Updated the landing page headline and introduction to highlight AI systems, technical leadership, and full-stack delivery.
 - Added individual pages for eight employers, a linked experience index, and a professional references policy.
 
