@@ -11,7 +11,7 @@ HEADING = re.compile(r"^#{1,6} (.+)$", re.MULTILINE)
 FENCE = re.compile(r"^ {0,3}(?:\x60{3,}|~{3,}).*$", re.MULTILINE)
 REQUIRED = {
     "README.md": [
-        "# AI Systems Architect | Full-Stack Developer",
+        "# Bashar Ayyash | AI Systems Architect & Tech Lead",
         "20 years of enterprise software experience",
         "[Experience](experience/README.md)",
         "[Case studies](case-studies/README.md)",

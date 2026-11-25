@@ -1,10 +1,12 @@
-# AI Systems Architect | Full-Stack Developer
+# Bashar Ayyash | AI Systems Architect & Tech Lead
+
+I build production AI systems for regulated industries and ship full-stack web and mobile products with Laravel, Next.js, and React Native.
 
 <img src="https://avatars.githubusercontent.com/u/932321?v=4" alt="Bashar Ayyash’s GitHub profile photo" width="96" align="right">
 
-**Bashar Ayyash · Amman, Jordan**
+**Amman, Jordan**
 
-I bring 20 years of enterprise software experience across fintech, humanitarian information management, and web and mobile products. I design retrieval-augmented generation (RAG) systems and AI agents, with evaluations, AI security, and monitoring built into delivery. I also lead and build full-stack systems, from Laravel APIs to Next.js web apps and React Native mobile apps.
+I bring 20 years of enterprise software experience across fintech, humanitarian information management, and web and mobile products. I design retrieval-augmented generation (RAG) systems and AI agents, with evaluations, AI security, and monitoring built into delivery.
 
 [![Visit Bashar’s portfolio](https://img.shields.io/badge/Portfolio-1f4d78)](https://yabasha.dev/)
 [![View Bashar’s LinkedIn profile](https://img.shields.io/badge/LinkedIn-1f4d78)](https://www.linkedin.com/in/yabasha/)
