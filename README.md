@@ -14,8 +14,8 @@ I bring 20 years of enterprise software experience across fintech, humanitarian 
 
 ## Selected work
 
-- **Regulated fintech.** At EJADA, I lead delivery for banking web and mobile applications. I also build bilingual retrieval systems and AI agents designed for human review. [Read the banking AI case study](case-studies/banking-ai.md).
-- **Humanitarian and research platforms.** At iMMAP, I built data collection and reporting tools and led a team contributing to CGIAR’s research platform and a web GIS for land management. [Read the MEL and GeOC case study](case-studies/mel-geoc.md).
+- **Regulated fintech.** At [EJADA](experience/ejada.md), I led delivery for banking web and mobile applications. I also build bilingual retrieval systems and AI agents designed for human review. [Read the banking AI case study](case-studies/banking-ai.md).
+- **Humanitarian and research platforms.** At [iMMAP](experience/immap.md), I built data collection and reporting tools and led a team contributing to CGIAR’s research platform and a web GIS for land management. [Read the MEL and GeOC case study](case-studies/mel-geoc.md).
 
 ## Stack
 
