@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## [1.1.0] - 2026-11-25
+
 - Added an engineering workflow page and a case study on AI-assisted publishing at yabasha.dev.
 - Expanded the landing page, added education and languages, documented EJADA role progression, and clarified the banking AI architecture and advisory work.
 - Centered the landing page portrait in a circular crop.
