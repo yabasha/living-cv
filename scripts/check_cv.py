@@ -12,9 +12,10 @@ FENCE = re.compile(r"^ {0,3}(?:\x60{3,}|~{3,}).*$", re.MULTILINE)
 REQUIRED = {
     "README.md": [
         "# Bashar Ayyash | AI Systems Architect & Tech Lead",
-        "20 years of enterprise software experience",
+        "I build production AI systems for regulated industries",
         "[Experience](experience/README.md)",
         "[Case studies](case-studies/README.md)",
+        "[How I work](how-i-work.md)",
         "[Releases](https://github.com/yabasha/living-cv/releases)",
     ],
     "experience/README.md": ["# Experience"],

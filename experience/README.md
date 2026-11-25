@@ -6,7 +6,7 @@
 
 | Employer | Role | Period | Selected work |
 | --- | --- | --- | --- |
-| [EJADA](ejada.md) | Technical Lead | 2022–2026 | React Native marketplace delivery, banking application architecture, and applied AI |
+| [EJADA](ejada.md) | Technical Lead → Dev Lead → Senior Consultant, Software Engineering | 2022–2026 | React Native marketplace delivery, banking application architecture, and applied AI design |
 | [iMMAP](immap.md) | Senior Web Developer | 2016–2021 | IMMI commodity monitoring, research reporting, and geospatial engineering |
 | [NCCI](ncci.md) | IT Web Manager | 2015–2016 | Web operations, data access, and disaster recovery for humanitarian coordination |
 | [Bayt.com](bayt.md) | Frontend Engineer | 2013–2015 | Mobile web development and a Chrome extension for job discovery |
@@ -17,5 +17,9 @@
 - [SHUKR](shukr.md) — E-commerce site development and online storefront operations.
 - [Globalcom](globalcom.md) — Webmaster and web infrastructure.
 - [SavvyTech](savvytech.md) — Frontend development for Oracle ERP systems.
+
+## Education and languages
+
+I earned a bachelor's degree in Computer Information Systems from Al-Zaytoonah University of Jordan. Arabic is my native language, and I work fluently in English. [Published résumé](https://yabasha.dev/resume)
 
 For professional inquiries, use [Bashar’s contact page](https://yabasha.dev/contact).
