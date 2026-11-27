@@ -1,6 +1,6 @@
 # EJADA
 
-**Banking and enterprise software · 2022–2026**
+**Banking and enterprise software · 2022–present**
 
 [Experience index](README.md) · [Professional references](references.md)
 
@@ -11,6 +11,8 @@ I joined EJADA as a Technical Lead in July 2022. I led web and mobile delivery, 
 | Technical Lead | Jul 2022–Jul 2024 | React and React Native architecture and mobile delivery |
 | Dev Lead, Web and Mobile | Jul 2024–Jun 2026 | Laravel and Next.js delivery, code standards, and CI/CD |
 | Senior Consultant, Software Engineering | From Jun 2026 | Architecture reviews, security and release criteria, and mentoring across squads |
+
+[Published CV (PDF)](https://yabasha.dev/BasharAyyash-CV.pdf)
 
 ## Mobile marketplace delivery
 

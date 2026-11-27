@@ -4,13 +4,13 @@
 
 [Experience index](README.md) · [Professional references](references.md)
 
-I built information-management tools for humanitarian and research teams, covering data collection, processing, analysis, and reporting.
+I joined iMMAP in February 2016 as a Web Developer Officer. I built information-management tools for humanitarian and research teams, covering data collection, processing, analysis, and reporting. [Published résumé](https://yabasha.dev/resume) · [MEL and GeOC project write-up](https://yabasha.dev/projects/icarda-mel-platform-and-geoc-web-gis-what-i-built-2016-to-2018)
 
 ## Integrated Market Monitoring Initiative (IMMI)
 
-I built the platform that took commodity-price observations collected for the Syria response from structured surveys through cleaning and validation to reporting. One of the hardest parts was ingesting monthly data at scale. Batches were roughly one million records in my work on the system. I used Python for data cleaning and analysis, and built charts that let users compare commodities and change reporting periods. The platform also supported seasonal forecasting for subsequent reporting periods.
+I built tools that took commodity-price observations collected for the Syria response from structured surveys through cleaning and validation to reporting. I used Python to clean and analyze the data and built charts for comparing commodities across reporting periods.
 
-The tools helped analysts track changes in food and agricultural input prices. The [public IMMI bulletin](https://reliefweb.int/report/syrian-arab-republic/northeast-syria-integrated-market-monitoring-initiative-immi-bulletin-quarter-3-winter-season-2022-price-monitoring-agriculture-and-livestock-inputs) shows the type of reporting the initiative produced.
+The tools helped analysts track changes in food and agricultural input prices. The [2022 IMMI bulletin](https://reliefweb.int/report/syrian-arab-republic/northeast-syria-integrated-market-monitoring-initiative-immi-bulletin-quarter-3-winter-season-2022-price-monitoring-agriculture-and-livestock-inputs) shows the type of reporting the initiative continued to produce after my time at iMMAP.
 
 ## CGIAR MEL and GeOC web GIS · 2016–2018
 
@@ -19,4 +19,3 @@ I led a five-person iMMAP team contributing to CGIAR’s Monitoring, Evaluation 
 The work used PHP and MySQL for MEL and Java, PostgreSQL/PostGIS, and GeoServer for GeOC. I also co-authored public documentation on MEL’s architecture and the installation of GeOC.
 
 - [MEL and GeOC case study](../case-studies/mel-geoc.md)
-- [Public project write-up and bibliography](https://yabasha.dev/projects/icarda-mel-platform-and-geoc-web-gis-what-i-built-2016-to-2018)
