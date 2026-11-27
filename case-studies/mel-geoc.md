@@ -17,4 +17,6 @@ CGIAR’s Monitoring, Evaluation and Learning (MEL) platform supported research 
 GeOC connected MEL users to maps and land-management records they could compare by local conditions. I co-authored public architecture and installation documentation for the two systems.
 
 - [Bashar’s case write-up and bibliography](https://yabasha.dev/projects/icarda-mel-platform-and-geoc-web-gis-what-i-built-2016-to-2018)
+- [MEL system design and architecture, CGIAR, 2016](https://repo.mel.cgiar.org/items/24f516a0-ca4c-43b4-969b-a2bda4f658f1)
+- [GeOC installation guide, ICARDA, iMMAP and CodeObia, 2017 (PDF)](https://mel.cgiar.org/reporting/download/hash/UdMCJdiy)
 - [ICARDA’s overview of the MEL platform](https://icarda.org/media/drywire/mel-transforming-everyday-data-management)

@@ -1,6 +1,6 @@
 # Globalcom
 
-**Webmaster · Early career**
+**Webmaster · 2009–2010**
 
 [Experience index](README.md) · [Professional references](references.md)
 
@@ -10,4 +10,4 @@ I managed the company’s website and its supporting systems. My work covered de
 
 I worked on website and database design, integration of supporting systems, and planning and delivery of site improvements. I also developed a search optimization strategy as part of maintaining the company’s web presence.
 
-[Published résumé](https://yabasha.dev/resume)
+[Published CV (PDF)](https://yabasha.dev/BasharAyyash-CV.pdf)

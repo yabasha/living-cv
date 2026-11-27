@@ -1,6 +1,6 @@
 # SavvyTech
 
-**Frontend development for Oracle ERP · Early career**
+**Frontend Engineer · 2011–2012**
 
 [Experience index](README.md) · [Professional references](references.md)
 
@@ -10,4 +10,4 @@ I built frontend components for enterprise resource planning systems based on Or
 
 I developed interface components with attention to accessibility and use on smaller screens. The components supported existing ERP functionality, giving me early experience integrating frontend work with enterprise systems.
 
-[Published résumé](https://yabasha.dev/resume)
+[Published CV (PDF)](https://yabasha.dev/BasharAyyash-CV.pdf)

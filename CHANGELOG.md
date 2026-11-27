@@ -2,6 +2,9 @@
 
 ## [Unreleased]
 
+- Aligned the EJADA tenure and role sequence with the published CV, removed unverified transition months, and added sourced dates and titles to early-career roles.
+- Clarified the iMMAP role and the scope of the market monitoring claims. Added direct links to the MEL and GeOC publications.
+
 ## [1.1.0] - 2026-11-25
 
 - Added an engineering workflow page and a case study on AI-assisted publishing at yabasha.dev.

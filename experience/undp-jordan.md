@@ -10,4 +10,4 @@ I developed a web tracking system and worked on reporting and data-management ap
 
 I analyzed requirements and data flows, then designed and implemented core parts of the tracking application using object-oriented web development. I worked across the application and database and supported deployment. The work gave programme teams web tools to record information, track activity, and prepare reports.
 
-[Published résumé](https://yabasha.dev/resume)
+[Published CV (PDF)](https://yabasha.dev/BasharAyyash-CV.pdf)
