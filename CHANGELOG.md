@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## [1.2.0] - 2026-11-27
+
 - Aligned the EJADA tenure and role sequence with the published CV, removed unverified transition months, and added sourced dates and titles to early-career roles.
 - Clarified the iMMAP role and the scope of the market monitoring claims. Added direct links to the MEL and GeOC publications.
 - Added a published technical work section with the portfolio blog and the 2017 GeOC User Guide co-authorship.
