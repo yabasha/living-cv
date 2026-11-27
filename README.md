@@ -21,6 +21,11 @@ I started building software professionally in 2005. At EJADA I led banking web a
 - **AI in my own product.** I built the queued Laravel job that fills missing SEO fields for my Next.js portfolio. It preserves existing field values and falls back to the article text when a model response fails. [Portfolio AI case study](case-studies/portfolio-ai.md)
 - **Humanitarian and research data.** I built commodity-price reporting tools for the Syria response and led a five-person iMMAP team contributing to CGIAR's research platform and land-management GIS. [iMMAP role and projects](experience/immap.md)
 
+## Published technical work
+
+- I write about AI engineering and full-stack development on [my portfolio blog](https://yabasha.dev/blog).
+- I co-authored the [GeOC User Guide](https://hdl.handle.net/10568/99746), published by ICARDA in 2017.
+
 ## How I work
 
 I start with one workflow the team can prove end to end. Before choosing a model, I ask what evidence a reviewer needs, which actions need approval, and how we'll catch a regression. I build a small working slice and review it with the people who will use or run it. [Read how I scope, test, and ship](how-i-work.md).
